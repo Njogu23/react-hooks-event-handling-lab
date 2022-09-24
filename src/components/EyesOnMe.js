@@ -10,7 +10,7 @@ function EyesOnMe() {
     }
 
     return (
-        <button onFocus={handleFocus} onBlur={handleBlur}></button>
+        <button onFocus={handleFocus} onBlur={handleBlur}>Eyes on me</button>
     )
 }
 
